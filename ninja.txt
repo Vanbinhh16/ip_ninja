@@ -1,1 +1,4 @@
-DinhVanBinh:0.tcp.ap.ngrok.io:18985:0:0
+DinhVanBinh:0.tcp.ap.ngrok.io:12889:0:0
+ĐVB Đẹp Trai:0.tcp.ap.ngrok.io:12889:0:0
+Trùm 5X:0.tcp.ap.ngrok.io:12889:0:0
+
